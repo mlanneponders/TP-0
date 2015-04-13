@@ -6,8 +6,7 @@
 #include <stdio.h>
 
 
-int main()
+int main(void)
 {
-    printf ("%s\n","Hello World!");
-    return 0;
+    printf ("Hello, world!\n");
 }
